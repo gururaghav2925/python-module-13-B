@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0dd14449-68d0-4f9b-9a61-4908819f3404)## Infix to Postfix Conversion with Subtraction and Multiplication Using Dictionary and Set
+## Infix to Postfix Conversion with Subtraction and Multiplication Using Dictionary and Set
 
 ## Aim:
 To convert an infix expression to postfix expression by following precedence and associativity rules using a dictionary for operator priority and a set to hold operators.

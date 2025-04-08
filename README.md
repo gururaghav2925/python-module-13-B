@@ -23,7 +23,7 @@ To convert an infix expression to postfix expression by following precedence and
 6.Display the resulting postfix expression.
 
 ## Program:
-```
+```python
 operators = set(['-', '*'])
 priority = {'-': 1, '*': 2}
 
